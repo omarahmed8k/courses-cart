@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "title": "Angular",
+    "price": 50
+  },
+  {
+    "id": 3,
+    "title": "Vue",
+    "price": 30
+  },
+  {
+    "id": 4,
+    "title": "Node",
+    "price": 20
+  },
+  {
+    "id": 5,
+    "title": "Express",
+    "price": 150
+  },
+  {
+    "id": 6,
+    "title": "MongoDB",
+    "price": 10
+  },
+  {
+    "id": 7,
+    "title": "Python",
+    "price": 15
+  },
+  {
+    "id": 8,
+    "title": "Django",
+    "price": 70
+  },
+  {
+    "id": 9,
+    "title": "Flask",
+    "price": 200
+  },
+  {
+    "id": 10,
+    "title": "Java",
+    "price": 900
+  }
+]
